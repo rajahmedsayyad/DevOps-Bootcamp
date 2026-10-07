@@ -1,0 +1,10 @@
+.ssh/
+.cache/
+.bash_history
+.bash_logout
+.bashrc
+.profile
+*.pem
+*.key
+*.ppk
+.env
